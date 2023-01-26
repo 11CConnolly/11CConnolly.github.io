@@ -2,7 +2,7 @@
 layout: post
 title: "Programming Languages as Tools"
 date: 2023-01-17 23:15:32 +0000
-categories: programming thoughts
+categories:
 ---
 Tools are an exceptionally useful invention. Hammers allow us to do things with our hands we'd never be able to usually. Erasers exist for fixing mistakes. Programming languages, for the countless that exist, are tools to help us to solve a problem but do not solve problem themselves. We are the ones that solve the problems - it is important to understand this, as it allows us to focus on the problem itself that we are fixing, not on the solution in our chosen language. 
 

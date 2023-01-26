@@ -2,7 +2,7 @@
 layout: post
 title: Apprenticeship Patterns 2023, or Things I Really Need to Start Doing
 date: Wed Jan 25 14:20:36 GMT 2023
-categories: patterns learning
+categories: 
 ---
 Apprenticeship Patterns are from the popular book by David Hoover which provides a cookbook of 'patterns' to help someone navigate the complex field of Software Engineering and eventually achieve mastery. They are especially suited to those at the beginning of their career, but applicable throughout ones career.
 
