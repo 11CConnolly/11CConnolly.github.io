@@ -5,7 +5,7 @@ date: Thu Jan 26 01:28:49 GMT 2023
 categories: personal photography deep
 ---
 
-<img src="11cconnolly.github.io/downloads/fav_photo.jpg">
+<img src="11cconnolly.github.io/downloads/fav_img.jpeg">
 
 This is my favourite photo. 
 
