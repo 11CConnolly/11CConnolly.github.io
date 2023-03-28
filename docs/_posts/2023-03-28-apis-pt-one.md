@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "What is an API?"
-date: Tue Mar 28 18:44:05 BST 2023
+title: What is an API?
+date: Tue Mar 28 18:44:05 GMT 2023
 categories:
 ---
+
 APIs are one of the most fundamental concepts in programming. We hear about Twitter's API being increasingly locked down, new ChatGPT APIs being developed and made public to take advantage off, terms such as SOAP, REST, GraphQL, etc. This leads us to a question of what exactly is an API, and why should be care about them?
 
 Very simply:
