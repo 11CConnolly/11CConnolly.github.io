@@ -5,7 +5,7 @@ date: Thu Jan 26 01:28:49 GMT 2023
 categories:
 ---
 
-<img src="https://11cconnolly.github.io/downloads/fav_img.jpeg">
+<img src="https://11cconnolly.github.io/downloads/fav_img.png">
 
 This is my favourite photo. 
 
