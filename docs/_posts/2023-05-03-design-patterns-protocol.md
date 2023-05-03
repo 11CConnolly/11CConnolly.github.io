@@ -1,6 +1,6 @@
 ---
-layout:post
-title: design-patterns-protocol
+layout: post
+title: 3 Design Patterns We're Using For a Space Protocol
 date: Wed May  3 20:19:49 BST 2023
 categories: 
 ---
