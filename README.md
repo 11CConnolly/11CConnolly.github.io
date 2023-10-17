@@ -1,2 +1,4 @@
-# [11cconnolly.github.io](www.11cconnolly.github.io)
+# 11cconnolly.github.io
 Personal Blog
+
+[Click here to view.](11cconnolly.github.io)
